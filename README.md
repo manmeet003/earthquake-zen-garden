@@ -2,7 +2,7 @@
 
 #clone the repo
 
-#run 'npm install' to insstall all the dependencies
+#run 'npm install' to install all the dependencies
 
 #run 'npm run build' to build the project
 
